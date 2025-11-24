@@ -10,6 +10,7 @@ import com.backend.backend.entities.Product;
 
 public interface ProductRepository extends JpaRepository<Product, Long> {
 
+    @Override
     List<Product> findAll();
 
     Product findById(long id);
@@ -21,5 +22,9 @@ public interface ProductRepository extends JpaRepository<Product, Long> {
     @Modifying
     @Query("UPDATE Product p SET p.name = ?2, p.price = ?3, p.experationDate = ?4 WHERE p.id = ?1")
     void updateProduct(long id, String name, Double price, java.sql.Date experationDate);
+
+    @Modifying
+    @Query("DELETE FROM Product p WHERE p = ?1")
+    void deleteProduct(Product product);
 
 } 

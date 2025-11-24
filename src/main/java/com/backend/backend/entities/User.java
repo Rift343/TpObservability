@@ -1,11 +1,13 @@
 package com.backend.backend.entities;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
+@Table(name = "users")
 public class User {
 
     @Id
@@ -14,6 +16,7 @@ public class User {
     private String name;
     private String email;
     private String password;
+    private int age;
 
     public Long getId() {
         return id;
@@ -57,6 +60,14 @@ public class User {
         sb.append(", password=").append(password);
         sb.append('}');
         return sb.toString();
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
     }
 
 
