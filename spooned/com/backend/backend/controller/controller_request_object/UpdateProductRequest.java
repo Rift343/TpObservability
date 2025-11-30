@@ -1,25 +1,38 @@
-package com.backend.backend.entities;
-@jakarta.persistence.Entity
-@jakarta.persistence.Table(name = "products")
-public class Product {
-    @jakarta.persistence.Id
-    @jakarta.persistence.GeneratedValue(strategy = jakarta.persistence.GenerationType.IDENTITY)
+package com.backend.backend.controller.controller_request_object;
+public class UpdateProductRequest {
     private java.lang.Long id;
 
     private java.lang.String name;
 
     private java.lang.Double price;
 
-    private java.sql.Date experationDate;
+    private java.lang.String experationDate;// String -> java.sql.Date.valueOf()
 
+
+    private java.lang.Long userId;
+
+    // Getters et setters
+    /**
+     *
+     * @return Long return the id
+     */
     public java.lang.Long getId() {
         return id;
     }
 
+    /**
+     *
+     * @param id
+     * 		the id to set
+     */
     public void setId(java.lang.Long id) {
         this.id = id;
     }
 
+    /**
+     *
+     * @return String return the name
+     */
     public java.lang.String getName() {
         return name;
     }
@@ -52,18 +65,26 @@ public class Product {
 
     /**
      *
-     * @return Date return the experationDate
+     * @return Long return the userId
      */
-    public java.sql.Date getExperationDate() {
-        return experationDate;
+    public java.lang.Long getUserId() {
+        return userId;
     }
 
     /**
      *
-     * @param experationDate
-     * 		the experationDate to set
+     * @param userId
+     * 		the userId to set
      */
-    public void setExperationDate(java.sql.Date experationDate) {
+    public void setUserId(java.lang.Long userId) {
+        this.userId = userId;
+    }
+
+    public java.lang.String getExperationDate() {
+        return experationDate;
+    }
+
+    public void setExperationDate(java.lang.String experationDate) {
         this.experationDate = experationDate;
     }
 }
