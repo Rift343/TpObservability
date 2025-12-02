@@ -33,6 +33,11 @@ public class AddProductLogsParser extends Parser {
         }
     }
 
+    @Override
+    public int getUserId() {
+        return userId;
+    }
+
     public void setPrice(double price) {
         this.price = price;
     }

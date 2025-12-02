@@ -5,17 +5,13 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.backend.logs_analyser.logs_parser.AddProductLogsParser;
-import com.backend.logs_analyser.logs_parser.DeleteProductLogsParser;
-import com.backend.logs_analyser.logs_parser.GetALLproductLogsParser;
 import com.backend.logs_analyser.logs_parser.GetProductByidParser;
 import com.backend.logs_analyser.logs_parser.Parser;
-import com.backend.logs_analyser.logs_parser.UpdateProductLogsParser;
 
 public class UserProfile {
-    private Long userId;
-    private List<LogEvent> events = new ArrayList<>();
-    private Map<String, Integer> actionCounts = new HashMap<>();
+    private final Long userId;
+    private final List<LogEvent> events = new ArrayList<>();
+    private final Map<String, Integer> actionCounts = new HashMap<>();
 
     public UserProfile(Long userID) {
         this.userId = userID;
@@ -40,23 +36,13 @@ public class UserProfile {
     public void addEvent(LogEvent event) {
         events.add(event);
         switch (event.event) {
-            case "ADD_PRODUCT":
-                actionCounts.put("ADD_PRODUCT", actionCounts.get("ADD_PRODUCT") + 1);
-                break;
-            case "GET_ALL_PRODUCTS":
-                actionCounts.put("GET_ALL_PRODUCTS", actionCounts.get("GET_ALL_PRODUCTS") + 1);
-                break;
-            case "UPDATE_PRODUCT":
-                actionCounts.put("UPDATE_PRODUCT", actionCounts.get("UPDATE_PRODUCT") + 1);
-                break;
-            case "DELETE_PRODUCT":
-                actionCounts.put("DELETE_PRODUCT", actionCounts.get("DELETE_PRODUCT") + 1);
-                break;
-            case "GET_PRODUCT_BY_ID":
-                actionCounts.put("GET_PRODUCT_BY_ID", actionCounts.get("GET_PRODUCT_BY_ID") + 1);
-                break;
-            default:
-                break;
+            case "ADD_PRODUCT" -> actionCounts.put("ADD_PRODUCT", actionCounts.get("ADD_PRODUCT") + 1);
+            case "GET_ALL_PRODUCTS" -> actionCounts.put("GET_ALL_PRODUCTS", actionCounts.get("GET_ALL_PRODUCTS") + 1);
+            case "UPDATE_PRODUCT" -> actionCounts.put("UPDATE_PRODUCT", actionCounts.get("UPDATE_PRODUCT") + 1);
+            case "DELETE_PRODUCT" -> actionCounts.put("DELETE_PRODUCT", actionCounts.get("DELETE_PRODUCT") + 1);
+            case "GET_PRODUCT_BY_ID" -> actionCounts.put("GET_PRODUCT_BY_ID", actionCounts.get("GET_PRODUCT_BY_ID") + 1);
+            default -> {
+            }
         }
     }
     public void updateProfile(Parser log) {
@@ -66,8 +52,6 @@ public class UserProfile {
     switch (log.getMethodName()) {
         case "addProduct":
             event.event = "ADD_PRODUCT";
-            if (log instanceof AddProductLogsParser addParser) {
-            }
             break;
 
         case "getAllProducts":
@@ -76,14 +60,11 @@ public class UserProfile {
 
         case "updateProduct":
             event.event = "UPDATE_PRODUCT";
-            if (log instanceof UpdateProductLogsParser updateParser) {
-            }
+
             break;
 
         case "deleteProductById":
             event.event = "DELETE_PRODUCT";
-            if (log instanceof DeleteProductLogsParser deleteParser) {
-            }
             break;
 
         case "getProductById":
@@ -103,9 +84,3 @@ public class UserProfile {
 
 }
 
-class LogEvent {
-    public String timestamp;
-    public String event;
-    public int id;     
-
-}

@@ -18,6 +18,7 @@ public class GetProductByidParser extends Parser {
         }
     }
 
+    
     public int getProductId() {
         return productId;
     }
@@ -26,6 +27,7 @@ public class GetProductByidParser extends Parser {
         this.productId = productId;
     }
 
+    @Override
     public int getUserId() {
         return userId;
     }

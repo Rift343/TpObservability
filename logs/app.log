@@ -1,15 +1,15 @@
-2025-11-30 17:06:56 INFO  ProductScenarioRandomTest:53 - Starting ProductScenarioRandomTest using Java 25 with PID 300694 (started by mco in /home/mco/Documents/Evolution&Restructuration/Observability/backend)
-2025-11-30 17:06:56 INFO  ProductScenarioRandomTest:652 - No active profile set, falling back to 1 default profile: "default"
-2025-11-30 17:06:58 INFO  RepositoryConfigurationDelegate:145 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-11-30 17:06:58 INFO  RepositoryConfigurationDelegate:213 - Finished Spring Data repository scanning in 98 ms. Found 2 JPA repository interfaces.
-2025-11-30 17:06:58 INFO  HikariDataSource:109 - HikariPool-1 - Starting...
-2025-11-30 17:06:59 INFO  HikariPool:580 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@42fc4ac4
-2025-11-30 17:06:59 INFO  HikariDataSource:122 - HikariPool-1 - Start completed.
-2025-11-30 17:06:59 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-11-30 17:06:59 INFO  Version:44 - HHH000412: Hibernate ORM core version 6.6.33.Final
-2025-11-30 17:06:59 INFO  RegionFactoryInitiator:50 - HHH000026: Second-level cache disabled
-2025-11-30 17:07:00 INFO  SpringPersistenceUnitInfo:87 - No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-11-30 17:07:00 INFO  pooling:163 - HHH10001005: Database info:
+2025-12-02 14:02:30 INFO  ProductScenarioRandomTest:53 - Starting ProductScenarioRandomTest using Java 25 with PID 55886 (started by mco in /home/mco/Documents/Evolution&Restructuration/Observability/backend)
+2025-12-02 14:02:30 INFO  ProductScenarioRandomTest:652 - No active profile set, falling back to 1 default profile: "default"
+2025-12-02 14:02:30 INFO  RepositoryConfigurationDelegate:145 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-12-02 14:02:30 INFO  RepositoryConfigurationDelegate:213 - Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
+2025-12-02 14:02:31 INFO  HikariDataSource:109 - HikariPool-1 - Starting...
+2025-12-02 14:02:31 INFO  HikariPool:580 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3e28d779
+2025-12-02 14:02:31 INFO  HikariDataSource:122 - HikariPool-1 - Start completed.
+2025-12-02 14:02:31 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-12-02 14:02:31 INFO  Version:44 - HHH000412: Hibernate ORM core version 6.6.33.Final
+2025-12-02 14:02:31 INFO  RegionFactoryInitiator:50 - HHH000026: Second-level cache disabled
+2025-12-02 14:02:31 INFO  SpringPersistenceUnitInfo:87 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-12-02 14:02:31 INFO  pooling:163 - HHH10001005: Database info:
 	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
 	Database driver: undefined/unknown
 	Database version: 17.7
@@ -17,466 +17,322 @@
 	Isolation level: undefined/unknown
 	Minimum pool size: undefined/unknown
 	Maximum pool size: undefined/unknown
-2025-11-30 17:07:01 INFO  JtaPlatformInitiator:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-11-30 17:07:01 INFO  LocalContainerEntityManagerFactoryBean:447 - Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-11-30 17:07:01 INFO  QueryEnhancerFactory:49 - Hibernate is in classpath; If applicable, HQL parser will be used.
-2025-11-30 17:07:03 WARN  JpaBaseConfiguration$JpaWebConfiguration:258 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2025-11-30 17:07:04 INFO  ProductScenarioRandomTest:59 - Started ProductScenarioRandomTest in 8.074 seconds (process running for 10.276)
-2025-11-30 17:07:04 INFO  UserService:10 - method addUser-u=User{id=null, name=User1, email=user1@test.com, password=pass1}
-2025-11-30 17:07:04 INFO  ProductService:11 - method getAllProducts-userId=1
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=1
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=19,userId=1
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=7,userId=1
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=1
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=14,name=Product_1_6_Updated,price=747.652437186886,experationDate=2023-02-03,userId=1
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=9,userId=1
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=18,userId=1
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=6,userId=1
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=4,userId=1
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=5,userId=1
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=8,userId=1
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=11,userId=1
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_1_14,price=593.8871558713931,experationDate=2021-03-28,userId=1
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=19,name=Product_1_15_Updated,price=874.0970493434419,experationDate=2024-12-24,userId=1
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=1
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=3,name=Product_1_17_Updated,price=839.178831995542,experationDate=2021-10-25,userId=1
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=15,userId=1
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=15,name=Product_1_19_Updated,price=715.3913397698411,experationDate=2024-11-11,userId=1
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=20,userId=1
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=5,userId=1
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_1_22,price=943.2862634329538,experationDate=2022-06-22,userId=1
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_1_23,price=686.1569014143238,experationDate=2022-09-16,userId=1
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=11,userId=1
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_1_25,price=275.23039165717597,experationDate=2021-01-17,userId=1
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_1_26,price=813.7310126533013,experationDate=2022-10-13,userId=1
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=14,userId=1
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_1_28,price=715.7785183109074,experationDate=2021-08-08,userId=1
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=11,name=Product_1_29_Updated,price=504.0982985155637,experationDate=2020-07-03,userId=1
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=18,userId=1
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=4,userId=1
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=11,userId=1
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=17,name=Product_1_33_Updated,price=980.3200889272091,experationDate=2024-10-03,userId=1
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=1
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=9,name=Product_1_35_Updated,price=699.1410382547487,experationDate=2022-10-22,userId=1
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_1_36,price=502.515516319317,experationDate=2022-02-16,userId=1
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=19,name=Product_1_37_Updated,price=654.7645364618045,experationDate=2022-06-09,userId=1
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=1,userId=1
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=6,name=Product_1_39_Updated,price=724.2119146043563,experationDate=2020-11-27,userId=1
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=18,userId=1
-2025-11-30 17:07:05 INFO  UserService:10 - method addUser-u=User{id=null, name=User2, email=user2@test.com, password=pass2}
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_2_1,price=642.8933532654459,experationDate=2020-12-15,userId=2
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_2_2,price=81.94320478611438,experationDate=2021-12-11,userId=2
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=19,userId=2
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=2
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_2_5,price=311.5226030013739,experationDate=2022-12-01,userId=2
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=2
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=13,name=Product_2_7_Updated,price=491.77541450977344,experationDate=2023-01-17,userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=19,userId=2
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_2_9,price=759.0176949803584,experationDate=2022-01-14,userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=16,userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=19,userId=2
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=6,userId=2
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=15,name=Product_2_14_Updated,price=528.1152489548124,experationDate=2021-01-17,userId=2
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=16,userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=8,userId=2
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=18,userId=2
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_2_19,price=568.4744463234173,experationDate=2021-07-18,userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=14,userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=16,userId=2
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=2
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=20,name=Product_2_23_Updated,price=103.5858514534299,experationDate=2023-09-20,userId=2
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=1,userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=1,userId=2
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_2_27,price=545.2591371461451,experationDate=2021-06-09,userId=2
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_2_28,price=545.7406403891157,experationDate=2022-02-23,userId=2
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=14,userId=2
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_2_30,price=435.64852855034974,experationDate=2023-10-24,userId=2
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=8,userId=2
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_2_33,price=809.9567487405762,experationDate=2024-03-12,userId=2
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=2
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=13,userId=2
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=15,userId=2
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=5,userId=2
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=6,name=Product_2_38_Updated,price=56.53042563082909,experationDate=2023-08-28,userId=2
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=3,name=Product_2_39_Updated,price=903.4595123764148,experationDate=2021-08-12,userId=2
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=5,name=Product_2_40_Updated,price=824.1011727209334,experationDate=2020-08-05,userId=2
-2025-11-30 17:07:05 INFO  UserService:10 - method addUser-u=User{id=null, name=User3, email=user3@test.com, password=pass3}
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=11,userId=3
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=15,userId=3
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_3_3,price=332.72388924262106,experationDate=2021-10-12,userId=3
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=19,name=Product_3_4_Updated,price=619.8850927648336,experationDate=2023-06-20,userId=3
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=8,userId=3
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_3_6,price=348.1193210977054,experationDate=2021-01-18,userId=3
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=7,name=Product_3_7_Updated,price=902.6831361453432,experationDate=2020-01-10,userId=3
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=10,name=Product_3_8_Updated,price=18.586695238750217,experationDate=2020-02-11,userId=3
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=1,name=Product_3_9_Updated,price=838.4559633238397,experationDate=2023-08-09,userId=3
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=3
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=15,userId=3
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=10,userId=3
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_3_13,price=91.16113749989596,experationDate=2020-03-26,userId=3
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=19,userId=3
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=14,userId=3
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_3_16,price=615.1668597046433,experationDate=2023-01-25,userId=3
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=12,userId=3
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=13,name=Product_3_18_Updated,price=125.8229821149066,experationDate=2024-02-04,userId=3
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=3
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_3_20,price=765.1211206399629,experationDate=2023-05-01,userId=3
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=6,name=Product_3_21_Updated,price=856.8631393370287,experationDate=2023-03-08,userId=3
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=6,userId=3
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=3
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=8,userId=3
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_3_25,price=686.1156977550437,experationDate=2022-12-21,userId=3
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=15,userId=3
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=14,userId=3
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=11,userId=3
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=20,userId=3
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=4,userId=3
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_3_31,price=35.75858721457536,experationDate=2023-06-06,userId=3
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=3
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=20,userId=3
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=10,name=Product_3_34_Updated,price=461.9146812400078,experationDate=2020-09-16,userId=3
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=12,name=Product_3_35_Updated,price=324.3765779765639,experationDate=2023-04-24,userId=3
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=19,userId=3
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=19,userId=3
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=3
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=3
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=3
-2025-11-30 17:07:05 INFO  UserService:10 - method addUser-u=User{id=null, name=User4, email=user4@test.com, password=pass4}
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=17,userId=4
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=10,userId=4
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_4_3,price=705.7528196345884,experationDate=2021-09-28,userId=4
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_4_4,price=598.3378634107626,experationDate=2022-10-27,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=5,userId=4
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_4_7,price=787.0541819565005,experationDate=2023-04-15,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=7,userId=4
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=16,name=Product_4_10_Updated,price=518.8452120995964,experationDate=2020-07-18,userId=4
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_4_11,price=484.6086868758488,experationDate=2024-07-05,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_4_13,price=143.68538096781336,experationDate=2020-05-11,userId=4
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=4,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_4_16,price=974.5882242983471,experationDate=2020-03-08,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_4_18,price=648.9885067106934,experationDate=2022-06-14,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=6,userId=4
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_4_21,price=858.2802343922957,experationDate=2024-10-04,userId=4
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=16,name=Product_4_22_Updated,price=428.4738529746915,experationDate=2021-08-20,userId=4
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=3,name=Product_4_23_Updated,price=874.8002855780892,experationDate=2023-12-23,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=7,userId=4
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=7,name=Product_4_26_Updated,price=871.0968646441969,experationDate=2024-04-28,userId=4
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=15,name=Product_4_27_Updated,price=660.3172585163252,experationDate=2020-12-16,userId=4
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=7,name=Product_4_28_Updated,price=802.9954387316753,experationDate=2023-11-28,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_4_30,price=614.4178286750893,experationDate=2022-04-13,userId=4
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_4_31,price=712.8924181739759,experationDate=2022-03-08,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=20,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=7,userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=4
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=6,userId=4
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=17,userId=4
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=14,name=Product_4_40_Updated,price=978.2036196361529,experationDate=2023-12-12,userId=4
-2025-11-30 17:07:05 INFO  UserService:10 - method addUser-u=User{id=null, name=User5, email=user5@test.com, password=pass5}
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=19,userId=5
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=9,userId=5
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=12,name=Product_5_3_Updated,price=83.56913138356103,experationDate=2023-02-13,userId=5
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=11,userId=5
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_5_5,price=210.75895072086325,experationDate=2022-08-17,userId=5
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=6,name=Product_5_6_Updated,price=610.1097354648817,experationDate=2020-08-23,userId=5
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_5_7,price=853.3939064411038,experationDate=2024-04-24,userId=5
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=2,userId=5
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_5_9,price=374.4583785550435,experationDate=2022-09-27,userId=5
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_5_10,price=75.92309109139005,experationDate=2021-08-02,userId=5
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=5
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=5
-2025-11-30 17:07:05 INFO  ProductService:30 - method deleteProductById-id=15,userId=5
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_5_14,price=652.3454105678765,experationDate=2024-01-24,userId=5
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=7,name=Product_5_15_Updated,price=625.186023974047,experationDate=2024-04-11,userId=5
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=1,userId=5
-2025-11-30 17:07:05 INFO  ProductService:11 - method getAllProducts-userId=5
-2025-11-30 17:07:05 INFO  ProductService:17 - method getProductById-id=14,userId=5
-2025-11-30 17:07:05 INFO  ProductService:42 - method addProduct-name=Product_5_19,price=365.0060611664846,experationDate=2021-06-17,userId=5
-2025-11-30 17:07:05 INFO  ProductService:37 - method updateProduct-id=20,name=Product_5_20_Updated,price=392.1865075409272,experationDate=2022-10-26,userId=5
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=5
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=7,userId=5
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_5_23,price=899.2342078392871,experationDate=2023-03-20,userId=5
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=5
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_5_25,price=579.4995703988527,experationDate=2023-03-11,userId=5
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=16,userId=5
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=5
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_5_28,price=308.3553578569632,experationDate=2020-11-09,userId=5
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=10,userId=5
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=2,userId=5
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=1,userId=5
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_5_32,price=997.7768594008912,experationDate=2023-07-22,userId=5
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=11,userId=5
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=5
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=19,userId=5
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=17,userId=5
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=19,name=Product_5_37_Updated,price=34.91575152303405,experationDate=2020-01-26,userId=5
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=11,userId=5
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=3,userId=5
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=17,name=Product_5_40_Updated,price=284.9031240897156,experationDate=2023-01-12,userId=5
-2025-11-30 17:07:06 INFO  UserService:10 - method addUser-u=User{id=null, name=User6, email=user6@test.com, password=pass6}
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=6
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=17,userId=6
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_6_3,price=256.8245864274198,experationDate=2020-06-16,userId=6
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=8,name=Product_6_4_Updated,price=360.3495206053797,experationDate=2024-02-17,userId=6
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=19,userId=6
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=8,userId=6
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=13,name=Product_6_7_Updated,price=322.9431579133439,experationDate=2021-08-05,userId=6
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=17,userId=6
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=13,userId=6
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=19,userId=6
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_6_11,price=449.4615040776947,experationDate=2021-01-20,userId=6
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=2,userId=6
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=3,name=Product_6_13_Updated,price=304.1027146826638,experationDate=2020-04-11,userId=6
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=3,userId=6
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=14,userId=6
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=6
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=7,userId=6
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=15,userId=6
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_6_19,price=112.61549125559543,experationDate=2024-08-17,userId=6
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=9,userId=6
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=4,name=Product_6_21_Updated,price=271.7392362517422,experationDate=2020-04-26,userId=6
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=11,userId=6
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=7,userId=6
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=8,name=Product_6_24_Updated,price=250.2348304319063,experationDate=2023-02-18,userId=6
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_6_25,price=334.21486373201344,experationDate=2024-09-09,userId=6
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=4,userId=6
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=20,userId=6
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=11,userId=6
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_6_29,price=223.48128836681823,experationDate=2020-12-25,userId=6
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=6
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=13,userId=6
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=17,name=Product_6_32_Updated,price=245.058474693016,experationDate=2020-04-13,userId=6
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=6
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=14,name=Product_6_34_Updated,price=399.080809067584,experationDate=2022-03-03,userId=6
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=6
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=6
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=10,userId=6
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=13,name=Product_6_38_Updated,price=884.0623622385817,experationDate=2021-06-23,userId=6
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=6
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_6_40,price=175.45274279791255,experationDate=2024-03-11,userId=6
-2025-11-30 17:07:06 INFO  UserService:10 - method addUser-u=User{id=null, name=User7, email=user7@test.com, password=pass7}
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=11,userId=7
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=13,name=Product_7_2_Updated,price=807.8580065434696,experationDate=2020-02-17,userId=7
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=14,userId=7
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=20,name=Product_7_4_Updated,price=683.2611467436861,experationDate=2023-10-19,userId=7
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=18,userId=7
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=15,userId=7
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=14,userId=7
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=3,name=Product_7_8_Updated,price=756.1311658088043,experationDate=2023-07-27,userId=7
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=8,userId=7
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=1,userId=7
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=7
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=6,name=Product_7_12_Updated,price=572.4645231646772,experationDate=2020-11-18,userId=7
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=18,userId=7
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=8,userId=7
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_7_15,price=176.15884197066532,experationDate=2024-02-18,userId=7
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=7
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=7
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_7_18,price=11.331454261916054,experationDate=2024-04-07,userId=7
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=18,name=Product_7_19_Updated,price=924.0532173961642,experationDate=2021-01-28,userId=7
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_7_20,price=931.6641540859621,experationDate=2024-08-01,userId=7
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=3,userId=7
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_7_22,price=709.5943530194951,experationDate=2023-11-23,userId=7
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=13,userId=7
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=7
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=7
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=8,userId=7
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=7
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=5,userId=7
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=16,name=Product_7_29_Updated,price=260.7726200235005,experationDate=2022-07-14,userId=7
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=14,name=Product_7_30_Updated,price=474.7686632711046,experationDate=2020-10-10,userId=7
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=5,userId=7
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=15,userId=7
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_7_33,price=387.70507953844356,experationDate=2023-04-20,userId=7
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=11,name=Product_7_34_Updated,price=451.5629923437133,experationDate=2024-08-04,userId=7
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=7
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=20,userId=7
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=8,name=Product_7_37_Updated,price=232.930817943359,experationDate=2023-06-02,userId=7
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=7
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_7_39,price=177.10971413377362,experationDate=2021-07-02,userId=7
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=15,userId=7
-2025-11-30 17:07:06 INFO  UserService:10 - method addUser-u=User{id=null, name=User8, email=user8@test.com, password=pass8}
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=11,name=Product_8_2_Updated,price=72.51401104926035,experationDate=2021-03-25,userId=8
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=8
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_8_4,price=130.1157761029128,experationDate=2021-01-22,userId=8
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=19,userId=8
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=1,userId=8
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_8_7,price=302.58450686130755,experationDate=2020-09-17,userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=4,name=Product_8_8_Updated,price=442.8617558139893,experationDate=2023-10-02,userId=8
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=2,name=Product_8_10_Updated,price=596.4185128253847,experationDate=2022-11-24,userId=8
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_8_11,price=567.1865947868135,experationDate=2024-09-16,userId=8
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_8_12,price=254.45749697681686,experationDate=2023-01-18,userId=8
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=5,userId=8
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=16,name=Product_8_15_Updated,price=752.7004156051125,experationDate=2024-04-17,userId=8
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=6,userId=8
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=14,userId=8
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=8
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=20,userId=8
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_8_20,price=995.894740398313,experationDate=2023-02-02,userId=8
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=16,userId=8
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=8
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=16,userId=8
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=20,userId=8
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=1,userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=19,name=Product_8_26_Updated,price=834.1649176536284,experationDate=2020-05-15,userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=13,name=Product_8_27_Updated,price=336.8858361461379,experationDate=2023-02-17,userId=8
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=12,userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=5,name=Product_8_29_Updated,price=794.1341089583516,experationDate=2023-07-17,userId=8
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=14,userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=8,name=Product_8_31_Updated,price=588.8906239109923,experationDate=2020-05-21,userId=8
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=11,userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=7,name=Product_8_33_Updated,price=838.6621824442846,experationDate=2024-10-21,userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=6,name=Product_8_34_Updated,price=525.5448263307185,experationDate=2022-05-13,userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=13,name=Product_8_35_Updated,price=208.70948355617833,experationDate=2023-07-28,userId=8
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=16,userId=8
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=9,userId=8
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=10,userId=8
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=5,userId=8
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=18,name=Product_8_40_Updated,price=248.74615436030587,experationDate=2024-10-22,userId=8
-2025-11-30 17:07:06 INFO  UserService:10 - method addUser-u=User{id=null, name=User9, email=user9@test.com, password=pass9}
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=1,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=10,name=Product_9_2_Updated,price=42.27129931593508,experationDate=2023-01-20,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=19,name=Product_9_3_Updated,price=556.8519902735829,experationDate=2023-10-04,userId=9
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=12,userId=9
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=20,userId=9
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=20,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=5,name=Product_9_7_Updated,price=896.7915962792799,experationDate=2022-11-10,userId=9
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_9_8,price=486.161038166663,experationDate=2020-12-15,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=17,name=Product_9_9_Updated,price=174.78658786025392,experationDate=2022-06-03,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=18,name=Product_9_10_Updated,price=330.88100967261414,experationDate=2022-11-17,userId=9
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=9
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_9_12,price=496.44108928505614,experationDate=2023-12-20,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=10,name=Product_9_13_Updated,price=300.17778999938423,experationDate=2021-09-27,userId=9
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=9
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_9_15,price=168.52682204429513,experationDate=2023-01-12,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=5,name=Product_9_16_Updated,price=66.80482180110945,experationDate=2020-09-10,userId=9
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_9_17,price=222.29841725637877,experationDate=2021-11-24,userId=9
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=13,name=Product_9_19_Updated,price=893.8488321723285,experationDate=2024-12-12,userId=9
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=19,userId=9
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=14,userId=9
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=16,userId=9
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=7,userId=9
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=4,userId=9
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=6,userId=9
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=9
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=3,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=17,name=Product_9_28_Updated,price=170.195614422031,experationDate=2024-11-15,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=6,name=Product_9_29_Updated,price=604.6676643469397,experationDate=2023-12-02,userId=9
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=20,userId=9
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=9,userId=9
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=19,userId=9
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=9
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=12,userId=9
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=9
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=2,userId=9
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=13,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=9,name=Product_9_38_Updated,price=847.9128034754832,experationDate=2022-08-07,userId=9
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=20,name=Product_9_39_Updated,price=52.827675273036206,experationDate=2022-08-11,userId=9
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_9_40,price=920.6086896386726,experationDate=2020-03-05,userId=9
-2025-11-30 17:07:06 INFO  UserService:10 - method addUser-u=User{id=null, name=User10, email=user10@test.com, password=pass10}
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=20,name=Product_10_1_Updated,price=678.058303029909,experationDate=2022-02-07,userId=10
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=13,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=7,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=18,userId=10
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_10_5,price=273.13814420815453,experationDate=2023-11-06,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=1,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=6,userId=10
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=9,name=Product_10_8_Updated,price=772.8641318229527,experationDate=2021-12-06,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=5,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=9,userId=10
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=6,name=Product_10_11_Updated,price=888.6127313131096,experationDate=2020-02-01,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=8,userId=10
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=18,userId=10
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=14,userId=10
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=19,name=Product_10_15_Updated,price=258.5361472516957,experationDate=2024-09-19,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=7,userId=10
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=10
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=12,userId=10
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_10_19,price=783.5995832876087,experationDate=2022-09-18,userId=10
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=10
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=7,name=Product_10_21_Updated,price=326.4011748315213,experationDate=2021-03-08,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=6,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=6,userId=10
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=14,userId=10
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=10
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=10
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=14,userId=10
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=10
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=10
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=19,userId=10
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=6,name=Product_10_31_Updated,price=725.6318501805309,experationDate=2021-08-28,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=2,userId=10
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=3,name=Product_10_33_Updated,price=989.6062575503802,experationDate=2020-10-17,userId=10
-2025-11-30 17:07:06 INFO  ProductService:42 - method addProduct-name=Product_10_34,price=137.76112100908608,experationDate=2021-05-06,userId=10
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=12,userId=10
-2025-11-30 17:07:06 INFO  ProductService:17 - method getProductById-id=15,userId=10
-2025-11-30 17:07:06 INFO  ProductService:11 - method getAllProducts-userId=10
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=7,name=Product_10_38_Updated,price=593.0840068236356,experationDate=2022-10-08,userId=10
-2025-11-30 17:07:06 INFO  ProductService:37 - method updateProduct-id=20,name=Product_10_39_Updated,price=986.688104028061,experationDate=2024-08-24,userId=10
-2025-11-30 17:07:06 INFO  ProductService:30 - method deleteProductById-id=4,userId=10
-2025-11-30 17:07:06 INFO  AnnotationConfigContextLoaderUtils:83 - Could not detect default configuration classes for test class [com.backend.backend.BackendApplicationTests]: BackendApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-2025-11-30 17:07:06 INFO  SpringBootTestContextBootstrapper:234 - Found @SpringBootConfiguration com.backend.backend.BackendApplication for test class com.backend.backend.BackendApplicationTests
-2025-11-30 17:07:06 INFO  LocalContainerEntityManagerFactoryBean:660 - Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-11-30 17:07:06 INFO  HikariDataSource:349 - HikariPool-1 - Shutdown initiated...
-2025-11-30 17:07:06 INFO  HikariDataSource:351 - HikariPool-1 - Shutdown completed.
-2025-11-30 18:10:09 INFO  BackendApplication:53 - Starting BackendApplication using Java 21.0.9 with PID 321751 (/home/mco/Documents/Evolution&Restructuration/Observability/backend/target/classes started by mco in /home/mco/Documents/Evolution&Restructuration/Observability/backend)
-2025-11-30 18:10:09 INFO  BackendApplication:652 - No active profile set, falling back to 1 default profile: "default"
-2025-11-30 18:10:10 INFO  RepositoryConfigurationDelegate:145 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-11-30 18:10:10 INFO  RepositoryConfigurationDelegate:213 - Finished Spring Data repository scanning in 63 ms. Found 2 JPA repository interfaces.
-2025-11-30 18:10:10 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
-2025-11-30 18:10:10 INFO  ServletWebServerApplicationContext:301 - Root WebApplicationContext: initialization completed in 1583 ms
-2025-11-30 18:10:11 INFO  HikariDataSource:109 - HikariPool-1 - Starting...
-2025-11-30 18:10:11 INFO  HikariPool:580 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@707865bd
-2025-11-30 18:10:11 INFO  HikariDataSource:122 - HikariPool-1 - Start completed.
-2025-11-30 18:10:11 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-11-30 18:10:11 INFO  Version:44 - HHH000412: Hibernate ORM core version 6.6.33.Final
-2025-11-30 18:10:11 INFO  RegionFactoryInitiator:50 - HHH000026: Second-level cache disabled
-2025-11-30 18:10:11 INFO  SpringPersistenceUnitInfo:87 - No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-11-30 18:10:11 INFO  pooling:163 - HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 17.7
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-11-30 18:10:12 INFO  JtaPlatformInitiator:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-11-30 18:10:12 INFO  LocalContainerEntityManagerFactoryBean:447 - Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-11-30 18:10:13 INFO  QueryEnhancerFactory:49 - Hibernate is in classpath; If applicable, HQL parser will be used.
-2025-11-30 18:10:13 WARN  JpaBaseConfiguration$JpaWebConfiguration:258 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2025-11-30 18:10:14 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
-2025-11-30 18:10:14 INFO  BackendApplication:59 - Started BackendApplication in 5.806 seconds (process running for 6.514)
-2025-11-30 18:10:14 INFO  GracefulShutdown:54 - Commencing graceful shutdown. Waiting for active requests to complete
-2025-11-30 18:10:14 INFO  GracefulShutdown:76 - Graceful shutdown complete
-2025-11-30 18:10:14 INFO  LocalContainerEntityManagerFactoryBean:660 - Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-11-30 18:10:14 INFO  HikariDataSource:349 - HikariPool-1 - Shutdown initiated...
-2025-11-30 18:10:14 INFO  HikariDataSource:351 - HikariPool-1 - Shutdown completed.
-2025-11-30 20:17:19 INFO  BackendApplication:53 - Starting BackendApplication using Java 21.0.9 with PID 330507 (/home/mco/Documents/Evolution&Restructuration/Observability/backend/target/classes started by mco in /home/mco/Documents/Evolution&Restructuration/Observability/backend)
-2025-11-30 20:17:19 INFO  BackendApplication:652 - No active profile set, falling back to 1 default profile: "default"
-2025-11-30 20:17:20 INFO  RepositoryConfigurationDelegate:145 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-11-30 20:17:20 INFO  RepositoryConfigurationDelegate:213 - Finished Spring Data repository scanning in 107 ms. Found 2 JPA repository interfaces.
-2025-11-30 20:17:21 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
-2025-11-30 20:17:21 INFO  Http11NioProtocol:168 - Initializing ProtocolHandler ["http-nio-8080"]
-2025-11-30 20:17:21 INFO  StandardService:168 - Starting service [Tomcat]
-2025-11-30 20:17:21 INFO  StandardEngine:168 - Starting Servlet engine: [Apache Tomcat/10.1.48]
-2025-11-30 20:17:21 INFO  [/]:168 - Initializing Spring embedded WebApplicationContext
-2025-11-30 20:17:21 INFO  ServletWebServerApplicationContext:301 - Root WebApplicationContext: initialization completed in 2256 ms
-2025-11-30 20:17:21 INFO  HikariDataSource:109 - HikariPool-1 - Starting...
+2025-12-02 14:02:32 INFO  JtaPlatformInitiator:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-12-02 14:02:32 INFO  LocalContainerEntityManagerFactoryBean:447 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-12-02 14:02:32 INFO  QueryEnhancerFactory:49 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-12-02 14:02:32 WARN  JpaBaseConfiguration$JpaWebConfiguration:258 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-12-02 14:02:33 INFO  ProductScenarioRandomTest:59 - Started ProductScenarioRandomTest in 3.05 seconds (process running for 3.846)
+2025-12-02 14:02:33 INFO  UserService:10 - method addUser-u=User{id=null, name=User1, email=user1@test.com, password=pass1}
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=11
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=11
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=11
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_1_8,price=923.1402975518126,experationDate=2020-02-03,userId=11
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=78,name=Product_1_9_Updated,price=224.8084386254394,experationDate=2023-01-19,userId=11
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=78,userId=11
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=78,userId=11
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_1_12,price=365.9067127567249,experationDate=2022-12-19,userId=11
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=79,name=Product_1_13_Updated,price=89.02876663835778,experationDate=2024-04-15,userId=11
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=79,userId=11
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=79,name=Product_1_15_Updated,price=150.72483146611393,experationDate=2020-12-21,userId=11
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=79,userId=11
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_1_17,price=351.1886901785125,experationDate=2021-04-15,userId=11
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=80,userId=11
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=79,userId=11
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_1_20,price=714.529227428749,experationDate=2024-12-15,userId=11
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_1_21,price=471.86257262060326,experationDate=2023-03-20,userId=11
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=82,name=Product_1_22_Updated,price=367.7291372377758,experationDate=2020-01-09,userId=11
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=11
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=82,userId=11
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=82,userId=11
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=81,name=Product_1_26_Updated,price=753.5651296669971,experationDate=2023-10-13,userId=11
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_1_27,price=132.36762703311732,experationDate=2020-09-20,userId=11
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=79,userId=11
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=81,userId=11
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=83,userId=11
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=79,name=Product_1_31_Updated,price=406.21682704438854,experationDate=2023-07-08,userId=11
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=79,name=Product_1_32_Updated,price=414.12630698697546,experationDate=2023-07-04,userId=11
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=11
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=11
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=83,userId=11
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=79,userId=11
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_1_38,price=32.95091329326959,experationDate=2022-03-06,userId=11
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=11
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=84,userId=11
+2025-12-02 14:02:33 INFO  UserService:10 - method addUser-u=User{id=null, name=User2, email=user2@test.com, password=pass2}
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_1,price=334.4530490072144,experationDate=2020-04-26,userId=12
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=85,name=Product_2_2_Updated,price=876.6711924824228,experationDate=2023-12-02,userId=12
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=85,userId=12
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_4,price=179.39627487930753,experationDate=2024-07-18,userId=12
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=12
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_6,price=135.79902283177202,experationDate=2022-11-20,userId=12
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=86,userId=12
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=86,name=Product_2_8_Updated,price=134.3352307626284,experationDate=2024-12-21,userId=12
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_9,price=568.8996083410359,experationDate=2023-02-24,userId=12
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=87,userId=12
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_11,price=61.0056909860993,experationDate=2021-06-03,userId=12
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_12,price=356.1416740452278,experationDate=2020-01-02,userId=12
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=86,name=Product_2_13_Updated,price=803.7995456047265,experationDate=2021-02-25,userId=12
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=12
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_15,price=38.07308125794161,experationDate=2023-10-24,userId=12
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_16,price=383.3302920228552,experationDate=2021-12-01,userId=12
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=88,userId=12
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_18,price=104.1113885409116,experationDate=2022-02-11,userId=12
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_19,price=472.62176868870887,experationDate=2021-05-16,userId=12
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=91,name=Product_2_20_Updated,price=282.5903093761877,experationDate=2022-03-25,userId=12
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=91,userId=12
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=12
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=12
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=87,userId=12
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=87,name=Product_2_25_Updated,price=970.8970531266895,experationDate=2022-06-25,userId=12
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=93,userId=12
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=91,name=Product_2_27_Updated,price=735.4987748556646,experationDate=2023-06-19,userId=12
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=12
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=89,name=Product_2_29_Updated,price=907.5240794861771,experationDate=2023-01-26,userId=12
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=12
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=12
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=87,userId=12
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=92,userId=12
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=91,userId=12
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=94,name=Product_2_35_Updated,price=511.73702041733816,experationDate=2022-05-05,userId=12
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=87,name=Product_2_36_Updated,price=469.06901743831685,experationDate=2020-09-10,userId=12
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=90,userId=12
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=94,userId=12
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=87,userId=12
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_2_40,price=115.65243211382747,experationDate=2023-12-18,userId=12
+2025-12-02 14:02:33 INFO  UserService:10 - method addUser-u=User{id=null, name=User3, email=user3@test.com, password=pass3}
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=13
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=13
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_3_8,price=351.54390536117376,experationDate=2022-01-27,userId=13
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=96,userId=13
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=13
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_3_16,price=582.4812519215884,experationDate=2021-01-19,userId=13
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_3_17,price=502.0303590337908,experationDate=2020-01-01,userId=13
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=13
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=98,name=Product_3_19_Updated,price=140.17133846431204,experationDate=2022-11-11,userId=13
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=13
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=13
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=98,userId=13
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_3_23,price=326.08621062859896,experationDate=2024-03-05,userId=13
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=13
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=99,userId=13
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=97,userId=13
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=13
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=13
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_3_34,price=835.0088314391887,experationDate=2024-08-11,userId=13
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_3_35,price=207.35420514777758,experationDate=2023-02-18,userId=13
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_3_36,price=560.387188058378,experationDate=2024-12-23,userId=13
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=100,userId=13
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=101,userId=13
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=101,userId=13
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=102,name=Product_3_40_Updated,price=185.16019423560425,experationDate=2023-12-03,userId=13
+2025-12-02 14:02:33 INFO  UserService:10 - method addUser-u=User{id=null, name=User4, email=user4@test.com, password=pass4}
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=14
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_4_10,price=309.15081691875844,experationDate=2023-04-15,userId=14
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_4_11,price=221.69846821314832,experationDate=2020-01-20,userId=14
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=103,name=Product_4_12_Updated,price=402.0689235981915,experationDate=2021-01-09,userId=14
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=104,name=Product_4_13_Updated,price=361.4694390093619,experationDate=2022-11-04,userId=14
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=14
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=104,userId=14
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=103,userId=14
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=104,userId=14
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_4_21,price=604.1417374101147,experationDate=2022-07-28,userId=14
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_4_22,price=806.5808121923977,experationDate=2022-09-13,userId=14
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_4_23,price=870.5274147625863,experationDate=2021-12-06,userId=14
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=106,userId=14
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=14
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_4_26,price=158.8277112883054,experationDate=2022-03-18,userId=14
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=14
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=105,name=Product_4_28_Updated,price=152.65409370282512,experationDate=2024-07-28,userId=14
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=107,name=Product_4_29_Updated,price=996.3699966168011,experationDate=2023-03-02,userId=14
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=106,userId=14
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=107,userId=14
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_4_32,price=443.798785237111,experationDate=2024-09-22,userId=14
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=108,name=Product_4_33_Updated,price=88.05965557422678,experationDate=2020-10-26,userId=14
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_4_34,price=788.0938510006688,experationDate=2020-10-04,userId=14
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=14
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=105,userId=14
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=108,userId=14
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_4_38,price=372.8828324291712,experationDate=2022-09-27,userId=14
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=109,userId=14
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=14
+2025-12-02 14:02:33 INFO  UserService:10 - method addUser-u=User{id=null, name=User5, email=user5@test.com, password=pass5}
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_5_1,price=871.870105670348,experationDate=2021-06-16,userId=15
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=112,userId=15
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_5_8,price=429.86528886430597,experationDate=2021-07-17,userId=15
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=113,userId=15
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=15
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=15
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=15
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=15
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_5_17,price=375.8822457030262,experationDate=2023-10-26,userId=15
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=114,userId=15
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=114,userId=15
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=15
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_5_29,price=338.4377972557064,experationDate=2020-05-08,userId=15
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=115,userId=15
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_5_31,price=87.84461384918062,experationDate=2023-12-06,userId=15
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=116,userId=15
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=15
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=116,name=Product_5_34_Updated,price=342.34060591910895,experationDate=2023-06-12,userId=15
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=116,name=Product_5_35_Updated,price=941.8523321207787,experationDate=2020-08-26,userId=15
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=116,userId=15
+2025-12-02 14:02:33 INFO  UserService:10 - method addUser-u=User{id=null, name=User6, email=user6@test.com, password=pass6}
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=16
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_6_5,price=519.3842859973337,experationDate=2024-10-10,userId=16
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=117,name=Product_6_6_Updated,price=636.4957787347557,experationDate=2021-10-14,userId=16
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=117,userId=16
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=16
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=16
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=16
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_6_24,price=85.57008301847834,experationDate=2023-08-22,userId=16
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_6_25,price=122.86821768959732,experationDate=2024-02-20,userId=16
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_6_26,price=799.4127401676965,experationDate=2022-09-21,userId=16
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_6_27,price=419.58682824222115,experationDate=2020-02-13,userId=16
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=119,userId=16
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=121,userId=16
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=118,userId=16
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=119,userId=16
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=120,userId=16
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=16
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=120,userId=16
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=16
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=119,name=Product_6_36_Updated,price=258.63807997101776,experationDate=2021-05-06,userId=16
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=119,userId=16
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=119,userId=16
+2025-12-02 14:02:33 INFO  UserService:10 - method addUser-u=User{id=null, name=User7, email=user7@test.com, password=pass7}
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_7_3,price=75.05016689820697,experationDate=2023-08-06,userId=17
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=122,name=Product_7_4_Updated,price=83.16682279363906,experationDate=2020-03-17,userId=17
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_7_5,price=448.63289511811365,experationDate=2021-10-03,userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_7_7,price=90.80293532831229,experationDate=2022-12-03,userId=17
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_7_8,price=685.9984105238392,experationDate=2020-12-02,userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=124,userId=17
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=124,userId=17
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=123,name=Product_7_12_Updated,price=403.3575073811796,experationDate=2021-04-27,userId=17
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=122,userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=125,userId=17
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=123,userId=17
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_7_18,price=884.586948261986,experationDate=2020-05-16,userId=17
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=125,userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=123,userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=122,userId=17
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=126,userId=17
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=125,userId=17
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=122,userId=17
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_7_27,price=59.763484657864176,experationDate=2024-08-27,userId=17
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=123,userId=17
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=127,name=Product_7_29_Updated,price=729.3798801622792,experationDate=2020-08-23,userId=17
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=127,userId=17
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=123,name=Product_7_31_Updated,price=735.6226763074496,experationDate=2022-07-22,userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=127,name=Product_7_35_Updated,price=557.2670637076665,experationDate=2022-09-13,userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_7_37,price=317.5706292027749,experationDate=2021-03-09,userId=17
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=127,name=Product_7_38_Updated,price=196.71444068033048,experationDate=2021-07-14,userId=17
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=17
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_7_40,price=994.2876661911689,experationDate=2022-04-15,userId=17
+2025-12-02 14:02:33 INFO  UserService:10 - method addUser-u=User{id=null, name=User8, email=user8@test.com, password=pass8}
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_8_8,price=845.3018215768,experationDate=2024-12-11,userId=18
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=130,userId=18
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_8_11,price=502.5604221327641,experationDate=2021-08-18,userId=18
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=131,name=Product_8_12_Updated,price=352.49955333625337,experationDate=2024-07-09,userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_8_15,price=886.0715885664079,experationDate=2022-10-16,userId=18
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_8_16,price=88.98297515855302,experationDate=2022-11-18,userId=18
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=132,userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:17 - method getProductById-id=131,userId=18
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=131,userId=18
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=133,userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_8_27,price=656.8719635784502,experationDate=2024-02-28,userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=134,name=Product_8_29_Updated,price=229.23036316116452,experationDate=2021-05-23,userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=134,name=Product_8_31_Updated,price=130.09280176239056,experationDate=2021-05-13,userId=18
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=134,userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_8_36,price=798.1788272074214,experationDate=2022-10-08,userId=18
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=135,name=Product_8_37_Updated,price=847.7740529379612,experationDate=2024-10-14,userId=18
+2025-12-02 14:02:33 INFO  ProductService:30 - method deleteProductById-id=135,userId=18
+2025-12-02 14:02:33 INFO  ProductService:11 - method getAllProducts-userId=18
+2025-12-02 14:02:33 INFO  UserService:10 - method addUser-u=User{id=null, name=User9, email=user9@test.com, password=pass9}
+2025-12-02 14:02:33 INFO  ProductService:42 - method addProduct-name=Product_9_5,price=113.85105825888807,experationDate=2020-11-18,userId=19
+2025-12-02 14:02:33 INFO  ProductService:37 - method updateProduct-id=136,name=Product_9_6_Updated,price=269.8303162853084,experationDate=2024-02-26,userId=19
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=136,userId=19
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=19
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_9_10,price=258.6108488921383,experationDate=2022-02-27,userId=19
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=19
+2025-12-02 14:02:34 INFO  ProductService:37 - method updateProduct-id=137,name=Product_9_12_Updated,price=781.6585723898094,experationDate=2024-07-26,userId=19
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=137,userId=19
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=19
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=19
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_9_21,price=873.8389558723844,experationDate=2022-04-02,userId=19
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=19
+2025-12-02 14:02:34 INFO  ProductService:17 - method getProductById-id=138,userId=19
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=138,userId=19
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=19
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=19
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_9_27,price=950.2410737619848,experationDate=2021-09-18,userId=19
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=139,userId=19
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_9_29,price=555.9074105655023,experationDate=2024-10-26,userId=19
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=19
+2025-12-02 14:02:34 INFO  ProductService:17 - method getProductById-id=140,userId=19
+2025-12-02 14:02:34 INFO  ProductService:37 - method updateProduct-id=140,name=Product_9_32_Updated,price=810.6143706308294,experationDate=2024-06-08,userId=19
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_9_33,price=437.04684274175486,experationDate=2022-03-10,userId=19
+2025-12-02 14:02:34 INFO  ProductService:37 - method updateProduct-id=140,name=Product_9_34_Updated,price=522.0483159101182,experationDate=2021-04-04,userId=19
+2025-12-02 14:02:34 INFO  ProductService:37 - method updateProduct-id=141,name=Product_9_35_Updated,price=347.6510075164053,experationDate=2020-06-14,userId=19
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=140,userId=19
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_9_37,price=447.7154576904572,experationDate=2021-08-21,userId=19
+2025-12-02 14:02:34 INFO  ProductService:37 - method updateProduct-id=142,name=Product_9_38_Updated,price=655.7257683581558,experationDate=2023-03-19,userId=19
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=142,userId=19
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=19
+2025-12-02 14:02:34 INFO  UserService:10 - method addUser-u=User{id=null, name=User10, email=user10@test.com, password=pass10}
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_10_1,price=441.9872010100374,experationDate=2020-02-23,userId=20
+2025-12-02 14:02:34 INFO  ProductService:17 - method getProductById-id=143,userId=20
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_10_3,price=496.87160542856344,experationDate=2022-02-05,userId=20
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=144,userId=20
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=143,userId=20
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=20
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=20
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=20
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_10_18,price=124.9981681090435,experationDate=2020-04-23,userId=20
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_10_19,price=836.4022773079342,experationDate=2022-02-06,userId=20
+2025-12-02 14:02:34 INFO  ProductService:37 - method updateProduct-id=145,name=Product_10_20_Updated,price=170.84070971947673,experationDate=2021-02-26,userId=20
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_10_21,price=416.75716819547245,experationDate=2023-07-06,userId=20
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=146,userId=20
+2025-12-02 14:02:34 INFO  ProductService:37 - method updateProduct-id=147,name=Product_10_23_Updated,price=722.9703790598123,experationDate=2020-02-19,userId=20
+2025-12-02 14:02:34 INFO  ProductService:17 - method getProductById-id=145,userId=20
+2025-12-02 14:02:34 INFO  ProductService:37 - method updateProduct-id=145,name=Product_10_25_Updated,price=485.96492234003307,experationDate=2024-12-09,userId=20
+2025-12-02 14:02:34 INFO  ProductService:37 - method updateProduct-id=145,name=Product_10_26_Updated,price=123.65582635488036,experationDate=2024-08-17,userId=20
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=20
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=20
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=147,userId=20
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_10_30,price=370.10942699343127,experationDate=2020-10-10,userId=20
+2025-12-02 14:02:34 INFO  ProductService:37 - method updateProduct-id=145,name=Product_10_31_Updated,price=996.0861812372525,experationDate=2024-10-18,userId=20
+2025-12-02 14:02:34 INFO  ProductService:17 - method getProductById-id=148,userId=20
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=20
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_10_34,price=173.90223575241214,experationDate=2024-07-28,userId=20
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_10_35,price=216.2449177167527,experationDate=2022-09-08,userId=20
+2025-12-02 14:02:34 INFO  ProductService:11 - method getAllProducts-userId=20
+2025-12-02 14:02:34 INFO  ProductService:30 - method deleteProductById-id=150,userId=20
+2025-12-02 14:02:34 INFO  ProductService:17 - method getProductById-id=145,userId=20
+2025-12-02 14:02:34 INFO  ProductService:42 - method addProduct-name=Product_10_39,price=42.90169689725264,experationDate=2023-10-26,userId=20
+2025-12-02 14:02:34 INFO  ProductService:17 - method getProductById-id=148,userId=20
+2025-12-02 14:02:34 INFO  LocalContainerEntityManagerFactoryBean:660 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-12-02 14:02:34 INFO  HikariDataSource:349 - HikariPool-1 - Shutdown initiated...
+2025-12-02 14:02:34 INFO  HikariDataSource:351 - HikariPool-1 - Shutdown completed.

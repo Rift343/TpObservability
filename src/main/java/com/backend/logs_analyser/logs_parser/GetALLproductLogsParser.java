@@ -16,7 +16,7 @@ public class GetALLproductLogsParser extends Parser {
             }
         }
     }
-
+    @Override
     public int getUserId() {
         return userId;
     }

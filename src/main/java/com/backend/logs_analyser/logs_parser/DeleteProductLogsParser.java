@@ -26,7 +26,7 @@ public class DeleteProductLogsParser extends Parser {
     public void setId(int id) {
         this.id = id;
     }
-
+    @Override
     public int getUserId() {
         return userId;
     }

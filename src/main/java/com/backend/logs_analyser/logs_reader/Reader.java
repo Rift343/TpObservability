@@ -22,7 +22,11 @@ public class Reader {
     public Reader() {
         //Lire le fichier de logs et remplir la collection logsLines
         try {
-            Path logFile = Paths.get("logs/app.log");
+            //afichier le PATH
+
+            System.out.println("Log file path: " + Paths.get("backend/logs/app.log").toAbsolutePath());
+
+            Path logFile = Paths.get("backend/logs/app.log");
             logsLines = Files.readAllLines(logFile);
         } catch (java.io.IOException e) {
             System.err.println("Error reading log file: " + e.getMessage());

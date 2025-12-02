@@ -38,12 +38,13 @@ public class ProductService {
         productRepository.updateProduct(id, name, price, experationDate);
     }
 
-    public void addProduct(java.lang.String name, java.lang.Double price, java.sql.Date experationDate, long userId) {
+    public java.lang.Long addProduct(java.lang.String name, java.lang.Double price, java.sql.Date experationDate, long userId) {
         logger.info("method addProduct-name=" + name + ",price=" + price + ",experationDate=" + experationDate + ",userId=" + userId + "");
         com.backend.backend.entities.Product product = new com.backend.backend.entities.Product();
         product.setName(name);
         product.setPrice(price);
         product.setExperationDate(experationDate);
         productRepository.save(product);
+        return product.getId();
     }
 }
