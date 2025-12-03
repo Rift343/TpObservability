@@ -26,9 +26,27 @@ public class MostExpensiveProductInDatabase {
             }
             return productIds;
         } catch (Exception e) {
-            e.printStackTrace();
+            System.err.println("Database error: " + e.getMessage());
         }
         return productIds; // si aucun produit trouvé
+    }
+
+    public static double findProductPriceById(long productId) {
+        String sql = "SELECT price FROM products WHERE id = ?";
+        
+        try (Connection conn = DriverManager.getConnection(URL, USER, PASSWORD);
+             PreparedStatement stmt = conn.prepareStatement(sql)) {
+            
+            stmt.setLong(1, productId);
+            try (ResultSet rs = stmt.executeQuery()) {
+                if (rs.next()) {
+                    return rs.getDouble("price");
+                }
+            }
+        } catch (Exception e) {
+            System.err.println("Database error: " + e.getMessage());
+        }
+        return 0.0;
     }
 
 }

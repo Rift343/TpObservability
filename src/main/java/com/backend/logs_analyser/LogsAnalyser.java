@@ -1,5 +1,6 @@
 package com.backend.logs_analyser;
 
+import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
@@ -9,6 +10,7 @@ import com.backend.logs_analyser.fetchDatabase.MostExpensiveProductInDatabase;
 import com.backend.logs_analyser.logs_parser.Parser;
 import com.backend.logs_analyser.logs_reader.Reader;
 import com.backend.logs_analyser.userProfile.UserProfile;
+import com.backend.logs_analyser.userProfile.generator.HigherProductSearchedProfileGenerator;
 import com.backend.logs_analyser.userProfile.generator.ReaderProductProfileGenerator;
 import com.backend.logs_analyser.userProfile.generator.WriteProductProfileGenerator;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -51,7 +53,7 @@ public class LogsAnalyser {
             System.out.println(jsonOutput);
             //On ecrit le JSON dans un fichier
             Files.writeString(Paths.get("logs/users_profiles.json"), jsonOutput);
-        } catch (Exception e) {
+        } catch (IOException e) {
             System.err.println("Error converting to JSON: " + e.getMessage());
         }
 
@@ -96,6 +98,9 @@ public class LogsAnalyser {
 
         ReaderProductProfileGenerator readerProfil = new ReaderProductProfileGenerator(usersProfile, limit);
         readerProfil.generate();
+
+        HigherProductSearchedProfileGenerator higherProductSearched = new HigherProductSearchedProfileGenerator(usersProfile, limit);
+        higherProductSearched.generate();
         
         System.out.println("Logs Analyser Finished");
     }

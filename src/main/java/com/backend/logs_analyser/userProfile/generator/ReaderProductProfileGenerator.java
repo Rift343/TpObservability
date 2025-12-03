@@ -1,5 +1,6 @@
 package com.backend.logs_analyser.userProfile.generator;
 
+import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -8,6 +9,7 @@ import java.util.Comparator;
 import java.util.HashMap;
 
 import com.backend.logs_analyser.userProfile.UserProfile;
+import com.backend.logs_analyser.userProfile.generator.formalProfile.FormalReaderProfile;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class ReaderProductProfileGenerator {
@@ -51,7 +53,7 @@ public class ReaderProductProfileGenerator {
             System.out.println(jsonOutput);
             //On ecrit le JSON dans un fichier
             Files.writeString(Paths.get("logs/readerUserProfile.json"), jsonOutput);
-        } catch (Exception e) {
+        } catch (IOException e) {
             System.err.println("Error converting to JSON: " + e.getMessage());
         }
     

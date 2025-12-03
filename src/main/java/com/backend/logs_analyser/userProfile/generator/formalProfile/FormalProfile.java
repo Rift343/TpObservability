@@ -1,4 +1,4 @@
-package com.backend.logs_analyser.userProfile.generator;
+package com.backend.logs_analyser.userProfile.generator.formalProfile;
 
 public abstract class FormalProfile {
 
