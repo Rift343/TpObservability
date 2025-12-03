@@ -26,7 +26,7 @@ public class Reader {
 
             System.out.println("Log file path: " + Paths.get("backend/logs/app.log").toAbsolutePath());
 
-            Path logFile = Paths.get("backend/logs/app.log");
+            Path logFile = Paths.get("logs/app.log");
             logsLines = Files.readAllLines(logFile);
         } catch (java.io.IOException e) {
             System.err.println("Error reading log file: " + e.getMessage());

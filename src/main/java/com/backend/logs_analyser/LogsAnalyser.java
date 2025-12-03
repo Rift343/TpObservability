@@ -5,15 +5,17 @@ import java.nio.file.Paths;
 
 import java.util.*;
 
-import com.backend.logs_analyser.userProfile.LogEvent;
-
 import com.backend.logs_analyser.fetchDatabase.MostExpensiveProductInDatabase;
 import com.backend.logs_analyser.logs_parser.Parser;
 import com.backend.logs_analyser.logs_reader.Reader;
 import com.backend.logs_analyser.userProfile.UserProfile;
+import com.backend.logs_analyser.userProfile.generator.ReaderProductProfileGenerator;
+import com.backend.logs_analyser.userProfile.generator.WriteProductProfileGenerator;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class LogsAnalyser {
+
+    private static final int limit = 3;
 
     public static void main(String[] args) {
         System.out.println("Logs Analyser Started");
@@ -56,6 +58,7 @@ public class LogsAnalyser {
         // Analyse des profils utilisateurs
 
         Collection<Long> findMostExpensiveProductId = MostExpensiveProductInDatabase.findMostExpensiveProductId();
+        /* 
 
         for (UserProfile profile : usersProfile) {
             System.out.println("=== Profil utilisateur " + profile.getUserId() + " ===");
@@ -84,14 +87,16 @@ public class LogsAnalyser {
                         System.out.println("Produit le plus cher consulté : ID " + productId);
                     }
                 }
-            }
-            
-            
-
-            
+            }  
         }
+        */
 
+        WriteProductProfileGenerator writerProfile = new WriteProductProfileGenerator(usersProfile, limit);
+        writerProfile.generate();
 
+        ReaderProductProfileGenerator readerProfil = new ReaderProductProfileGenerator(usersProfile, limit);
+        readerProfil.generate();
+        
         System.out.println("Logs Analyser Finished");
     }
 }

@@ -1,3311 +1,1305 @@
 [ {
-  "userId" : 0,
+  "userId" : 16,
   "events" : [ {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "ADD_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "ADD_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "ADD_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "ADD_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "ADD_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 119
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 119
   }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 120
   }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "ADD_PRODUCT",
-    "id" : 0
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 119
   }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "ADD_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
     "id" : 0
   } ],
   "actionCounts" : {
-    "UPDATE_PRODUCT" : 0,
-    "DELETE_PRODUCT" : 0,
-    "ADD_PRODUCT" : 153,
-    "GET_ALL_PRODUCTS" : 0,
-    "GET_PRODUCT_BY_ID" : 0
+    "UPDATE_PRODUCT" : 2,
+    "DELETE_PRODUCT" : 5,
+    "ADD_PRODUCT" : 5,
+    "GET_ALL_PRODUCTS" : 6,
+    "GET_PRODUCT_BY_ID" : 4
   }
 }, {
-  "userId" : 1,
+  "userId" : 17,
   "events" : [ {
-    "timestamp" : "2025-11-30 17:07:04",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 124
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "UPDATE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_PRODUCT_BY_ID",
-    "id" : 9
+    "id" : 122
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 4
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 15
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 20
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 5
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 18
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_PRODUCT_BY_ID",
-    "id" : 1
+    "id" : 125
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_PRODUCT_BY_ID",
-    "id" : 18
+    "id" : 123
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_PRODUCT_BY_ID",
-    "id" : 9
+    "id" : 125
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_PRODUCT_BY_ID",
-    "id" : 14
+    "id" : 123
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
+    "id" : 122
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "DELETE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "DELETE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "DELETE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_PRODUCT_BY_ID",
-    "id" : 9
+    "id" : 123
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "UPDATE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_PRODUCT_BY_ID",
-    "id" : 5
+    "id" : 127
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 15
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "UPDATE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 17
-  } ],
-  "actionCounts" : {
-    "UPDATE_PRODUCT" : 19,
-    "DELETE_PRODUCT" : 19,
-    "ADD_PRODUCT" : 0,
-    "GET_ALL_PRODUCTS" : 9,
-    "GET_PRODUCT_BY_ID" : 17
-  }
-}, {
-  "userId" : 2,
-  "events" : [ {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "UPDATE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "UPDATE_PRODUCT",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 16
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
+    "timestamp" : "2025-12-02 14:02:33",
     "event" : "GET_ALL_PRODUCTS",
     "id" : 0
   }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 14
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 13
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 5
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 9
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 15
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 1
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
     "id" : 0
   } ],
   "actionCounts" : {
-    "UPDATE_PRODUCT" : 15,
-    "DELETE_PRODUCT" : 21,
-    "ADD_PRODUCT" : 0,
-    "GET_ALL_PRODUCTS" : 18,
-    "GET_PRODUCT_BY_ID" : 12
-  }
-}, {
-  "userId" : 3,
-  "events" : [ {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 15
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 10
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 6
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 14
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 20
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 17
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 1
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 13
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 14
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 18
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 6
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  } ],
-  "actionCounts" : {
-    "UPDATE_PRODUCT" : 13,
-    "DELETE_PRODUCT" : 16,
-    "ADD_PRODUCT" : 0,
-    "GET_ALL_PRODUCTS" : 14,
-    "GET_PRODUCT_BY_ID" : 19
-  }
-}, {
-  "userId" : 4,
-  "events" : [ {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 10
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 5
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 6
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 20
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 6
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 20
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 1
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 1
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 9
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 6
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  } ],
-  "actionCounts" : {
-    "UPDATE_PRODUCT" : 15,
-    "DELETE_PRODUCT" : 12,
-    "ADD_PRODUCT" : 0,
-    "GET_ALL_PRODUCTS" : 19,
-    "GET_PRODUCT_BY_ID" : 14
-  }
-}, {
-  "userId" : 5,
-  "events" : [ {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 2
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 1
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 14
-  }, {
-    "timestamp" : "2025-11-30 17:07:05",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 10
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 2
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 17
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 13
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 5
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 13
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 12
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 5
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 9
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 2
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  } ],
-  "actionCounts" : {
-    "UPDATE_PRODUCT" : 16,
-    "DELETE_PRODUCT" : 14,
-    "ADD_PRODUCT" : 0,
-    "GET_ALL_PRODUCTS" : 13,
-    "GET_PRODUCT_BY_ID" : 20
-  }
-}, {
-  "userId" : 6,
-  "events" : [ {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 8
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 17
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 13
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 13
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 10
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 8
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 20
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 8
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 18
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 16
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 14
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 20
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 12
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 15
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  } ],
-  "actionCounts" : {
-    "UPDATE_PRODUCT" : 16,
-    "DELETE_PRODUCT" : 20,
-    "ADD_PRODUCT" : 0,
-    "GET_ALL_PRODUCTS" : 13,
-    "GET_PRODUCT_BY_ID" : 20
-  }
-}, {
-  "userId" : 7,
-  "events" : [ {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 14
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 8
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 18
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 13
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 5
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 15
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 16
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 17
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 17
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 8
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 17
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 10
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 18
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  } ],
-  "actionCounts" : {
-    "UPDATE_PRODUCT" : 17,
-    "DELETE_PRODUCT" : 15,
-    "ADD_PRODUCT" : 0,
-    "GET_ALL_PRODUCTS" : 16,
-    "GET_PRODUCT_BY_ID" : 17
-  }
-}, {
-  "userId" : 8,
-  "events" : [ {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 14
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 16
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 14
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 16
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 10
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 5
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 13
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 12
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  } ],
-  "actionCounts" : {
-    "UPDATE_PRODUCT" : 18,
-    "DELETE_PRODUCT" : 18,
-    "ADD_PRODUCT" : 0,
-    "GET_ALL_PRODUCTS" : 16,
-    "GET_PRODUCT_BY_ID" : 13
-  }
-}, {
-  "userId" : 9,
-  "events" : [ {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 1
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 6
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 9
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 12
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 2
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 13
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 17
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 15
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 6
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 4
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 15
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 17
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 1
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:10",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 18
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  } ],
-  "actionCounts" : {
-    "UPDATE_PRODUCT" : 21,
-    "DELETE_PRODUCT" : 13,
-    "ADD_PRODUCT" : 0,
-    "GET_ALL_PRODUCTS" : 14,
-    "GET_PRODUCT_BY_ID" : 17
-  }
-}, {
-  "userId" : 10,
-  "events" : [ {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 18
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 1
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 6
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 5
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 9
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 8
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 7
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 6
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 6
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 2
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 15
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-11-30 17:07:06",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 19
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 11
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 15
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "DELETE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 16
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 13
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "UPDATE_PRODUCT",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_PRODUCT_BY_ID",
-    "id" : 3
-  }, {
-    "timestamp" : "2025-12-02 08:36:11",
-    "event" : "GET_ALL_PRODUCTS",
-    "id" : 0
-  } ],
-  "actionCounts" : {
-    "UPDATE_PRODUCT" : 18,
-    "DELETE_PRODUCT" : 17,
-    "ADD_PRODUCT" : 0,
+    "UPDATE_PRODUCT" : 6,
+    "DELETE_PRODUCT" : 4,
+    "ADD_PRODUCT" : 8,
     "GET_ALL_PRODUCTS" : 12,
-    "GET_PRODUCT_BY_ID" : 21
+    "GET_PRODUCT_BY_ID" : 9
+  }
+}, {
+  "userId" : 18,
+  "events" : [ {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 131
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  } ],
+  "actionCounts" : {
+    "UPDATE_PRODUCT" : 4,
+    "DELETE_PRODUCT" : 6,
+    "ADD_PRODUCT" : 6,
+    "GET_ALL_PRODUCTS" : 13,
+    "GET_PRODUCT_BY_ID" : 1
+  }
+}, {
+  "userId" : 19,
+  "events" : [ {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 138
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 140
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  } ],
+  "actionCounts" : {
+    "UPDATE_PRODUCT" : 6,
+    "DELETE_PRODUCT" : 6,
+    "ADD_PRODUCT" : 7,
+    "GET_ALL_PRODUCTS" : 9,
+    "GET_PRODUCT_BY_ID" : 2
+  }
+}, {
+  "userId" : 20,
+  "events" : [ {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 143
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 145
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 148
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 145
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:34",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 148
+  } ],
+  "actionCounts" : {
+    "UPDATE_PRODUCT" : 5,
+    "DELETE_PRODUCT" : 5,
+    "ADD_PRODUCT" : 9,
+    "GET_ALL_PRODUCTS" : 7,
+    "GET_PRODUCT_BY_ID" : 5
+  }
+}, {
+  "userId" : 11,
+  "events" : [ {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 78
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 79
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 79
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 79
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 82
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 79
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 83
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  } ],
+  "actionCounts" : {
+    "UPDATE_PRODUCT" : 7,
+    "DELETE_PRODUCT" : 7,
+    "ADD_PRODUCT" : 7,
+    "GET_ALL_PRODUCTS" : 7,
+    "GET_PRODUCT_BY_ID" : 7
+  }
+}, {
+  "userId" : 12,
+  "events" : [ {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 86
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 87
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 91
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 87
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 87
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 87
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  } ],
+  "actionCounts" : {
+    "UPDATE_PRODUCT" : 9,
+    "DELETE_PRODUCT" : 7,
+    "ADD_PRODUCT" : 11,
+    "GET_ALL_PRODUCTS" : 7,
+    "GET_PRODUCT_BY_ID" : 6
+  }
+}, {
+  "userId" : 13,
+  "events" : [ {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 101
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  } ],
+  "actionCounts" : {
+    "UPDATE_PRODUCT" : 2,
+    "DELETE_PRODUCT" : 6,
+    "ADD_PRODUCT" : 7,
+    "GET_ALL_PRODUCTS" : 9,
+    "GET_PRODUCT_BY_ID" : 1
+  }
+}, {
+  "userId" : 14,
+  "events" : [ {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 104
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 106
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 107
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 108
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  } ],
+  "actionCounts" : {
+    "UPDATE_PRODUCT" : 5,
+    "DELETE_PRODUCT" : 5,
+    "ADD_PRODUCT" : 9,
+    "GET_ALL_PRODUCTS" : 6,
+    "GET_PRODUCT_BY_ID" : 4
+  }
+}, {
+  "userId" : 15,
+  "events" : [ {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 114
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "ADD_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_PRODUCT_BY_ID",
+    "id" : 116
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "GET_ALL_PRODUCTS",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "UPDATE_PRODUCT",
+    "id" : 0
+  }, {
+    "timestamp" : "2025-12-02 14:02:33",
+    "event" : "DELETE_PRODUCT",
+    "id" : 0
+  } ],
+  "actionCounts" : {
+    "UPDATE_PRODUCT" : 2,
+    "DELETE_PRODUCT" : 5,
+    "ADD_PRODUCT" : 5,
+    "GET_ALL_PRODUCTS" : 6,
+    "GET_PRODUCT_BY_ID" : 2
   }
 } ]

@@ -1,0 +1,29 @@
+{
+  "1" : {
+    "userId" : 12,
+    "writeAction" : 27,
+    "add_PRODUCT" : 11,
+    "get_ALL_PRODUCTS" : 7,
+    "update_PRODUCT" : 9,
+    "delete_PRODUCT" : 7,
+    "get_PRODUCT_BY_ID" : 6
+  },
+  "2" : {
+    "userId" : 11,
+    "writeAction" : 21,
+    "add_PRODUCT" : 7,
+    "get_ALL_PRODUCTS" : 7,
+    "update_PRODUCT" : 7,
+    "delete_PRODUCT" : 7,
+    "get_PRODUCT_BY_ID" : 7
+  },
+  "3" : {
+    "userId" : 14,
+    "writeAction" : 19,
+    "add_PRODUCT" : 9,
+    "get_ALL_PRODUCTS" : 6,
+    "update_PRODUCT" : 5,
+    "delete_PRODUCT" : 5,
+    "get_PRODUCT_BY_ID" : 4
+  }
+}
