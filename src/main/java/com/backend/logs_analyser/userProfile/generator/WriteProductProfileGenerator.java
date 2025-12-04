@@ -12,7 +12,7 @@ import com.backend.logs_analyser.userProfile.UserProfile;
 import com.backend.logs_analyser.userProfile.generator.formalProfile.FormalWriterProfile;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class WriteProductProfileGenerator {
+public class WriteProductProfileGenerator implements IGenerator {
 
     private final Collection<UserProfile> usersProfile;
     private final int nomberOfUsers;

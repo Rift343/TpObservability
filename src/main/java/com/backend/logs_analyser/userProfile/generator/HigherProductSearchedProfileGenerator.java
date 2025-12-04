@@ -8,7 +8,6 @@ import java.util.Collection;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
-import java.util.stream.Stream;
 
 import com.backend.logs_analyser.fetchDatabase.MostExpensiveProductInDatabase;
 import com.backend.logs_analyser.userProfile.LogEvent;
@@ -17,7 +16,7 @@ import com.backend.logs_analyser.userProfile.generator.formalProfile.FormalHighe
 import com.backend.logs_analyser.userProfile.generator.formalProfile.searchedProduct;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class HigherProductSearchedProfileGenerator {
+public class HigherProductSearchedProfileGenerator implements IGenerator {
 
     private final Collection<UserProfile> userProfiles;
     private final int nomberOfUsers;

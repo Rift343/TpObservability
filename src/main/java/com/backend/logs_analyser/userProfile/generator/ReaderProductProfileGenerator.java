@@ -12,7 +12,7 @@ import com.backend.logs_analyser.userProfile.UserProfile;
 import com.backend.logs_analyser.userProfile.generator.formalProfile.FormalReaderProfile;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class ReaderProductProfileGenerator {
+public class ReaderProductProfileGenerator implements IGenerator {
 
 
     private final Collection<UserProfile> usersProfile;
@@ -23,6 +23,7 @@ public class ReaderProductProfileGenerator {
         this.nomberOfUsers = nb;
     }
 
+    @Override
     public void generate(){
         int count = 0;
         HashMap<Integer,FormalReaderProfile> readerProfiles = new HashMap<>();

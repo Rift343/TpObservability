@@ -11,6 +11,7 @@ import com.backend.logs_analyser.logs_parser.Parser;
 import com.backend.logs_analyser.logs_reader.Reader;
 import com.backend.logs_analyser.userProfile.UserProfile;
 import com.backend.logs_analyser.userProfile.generator.HigherProductSearchedProfileGenerator;
+import com.backend.logs_analyser.userProfile.generator.IGenerator;
 import com.backend.logs_analyser.userProfile.generator.ReaderProductProfileGenerator;
 import com.backend.logs_analyser.userProfile.generator.WriteProductProfileGenerator;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -96,7 +97,7 @@ public class LogsAnalyser {
         WriteProductProfileGenerator writerProfile = new WriteProductProfileGenerator(usersProfile, limit);
         writerProfile.generate();
 
-        ReaderProductProfileGenerator readerProfil = new ReaderProductProfileGenerator(usersProfile, limit);
+        IGenerator readerProfil = new ReaderProductProfileGenerator(usersProfile, limit);
         readerProfil.generate();
 
         HigherProductSearchedProfileGenerator higherProductSearched = new HigherProductSearchedProfileGenerator(usersProfile, limit);
