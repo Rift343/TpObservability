@@ -15,12 +15,16 @@ public class ProductController {
     @org.springframework.web.bind.annotation.RequestMapping("/get")
     public org.springframework.http.ResponseEntity<com.backend.backend.entities.Product> getProductById(@org.springframework.web.bind.annotation.RequestBody
     com.backend.backend.controller.controller_request_object.GetProductRequest request) {
+        if (request == null || request.getId() == null || request.getUserId() == null) {
+            return org.springframework.http.ResponseEntity.badRequest().build();
+        }
+
         java.util.Optional<com.backend.backend.entities.Product> product = productService.getProductById(request.getId(), request.getUserId());
         if (product.isEmpty()) {
             return org.springframework.http.ResponseEntity.notFound().build();
-        } else {
-            return org.springframework.http.ResponseEntity.ok(product.get());
         }
+
+        return org.springframework.http.ResponseEntity.ok(product.get());
     }
 
     @org.springframework.web.bind.annotation.RequestMapping("/delete")
