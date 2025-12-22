@@ -7,6 +7,9 @@ import spoon.reflect.CtModel;
 
 public class LogsInjector {
 
+    public static ServiceVisitor vis1;
+
+
     public static void main(String[] args) {
         System.out.println("Begin Logs Injection...");
         //on parse la backend avec spoon

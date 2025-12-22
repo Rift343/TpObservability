@@ -12,6 +12,7 @@ import spoon.reflect.declaration.ModifierKind;
 import spoon.reflect.visitor.CtScanner;
 
 public class ServiceVisitor extends CtScanner {
+    MethodInjectionVisitor v1;
 
     @Override
     public <T> void visitCtClass(CtClass<T> ctClass) {
